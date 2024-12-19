@@ -10,13 +10,13 @@ Within the repository there are 4 files and 1 directory containing 2 subdirector
 - ### data
 contains 2 sudirectories:
 
-    - timestamps
-        - 20241203_195608.txt an empty txt file with the name being the date and time of its inception.
-        - formatted.txt contains a date and time in the format YYYYmmdd_HHMMSS.
-        - now.txt contains 10 dates and times.
+- timestamps
+    - ``20241203_195608.txt`` an empty txt file with the name being the date and time of its inception.
+    - ``formatted.txt`` contains a date and time in the format YYYYmmdd_HHMMSS.
+    - ``now.txt`` contains 10 dates and times.
 
-    - weather
-        - contains 2 json files with weather data taken from the [Athenry weather station](https://prodapi.metweb.ie/observations/athenry/today)
+- weather
+    - contains 2 json files with weather data taken from the [Athenry weather station](https://prodapi.metweb.ie/observations/athenry/today)
 
 - ### .gitignore
 excludes typical files from Python projects.
